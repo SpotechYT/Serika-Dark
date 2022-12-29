@@ -9,13 +9,13 @@ Bassed on this color pallette(Excluding Background):
 ![Pallete](https://raw.githubusercontent.com/SpotechYT/Serika-Dark/main/palette.png)
 
 Get the VS Code theme: https://github.com/SpotechYT/serika-dark-vscode
-<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark/main/assets/Logo.jpg" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/example_python.png" height="200"></p>
 
 Get the Wallpapers: https://github.com/SpotechYT/serika-dark-wallpapers
-<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark/main/assets/Logo.jpg" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-wallpapers/main/Collage.jpg" height="200"></p>
 
 Get the Start Page: https://github.com/SpotechYT/serika-dark-startpage
-<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark/main/assets/Logo.jpg" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-startpage/main/Screenshot.png" height="200"></p>
 
 
 ###### Created With Determination By Spotech
