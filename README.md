@@ -4,9 +4,11 @@
 
 Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
 
-Bassed on this color pallette(Excluding Background): 
+***More Comming Soon!***
 
-![Pallete](https://raw.githubusercontent.com/SpotechYT/Serika-Dark/main/palette.png)
+Full Desktop: 
+
+![Desktop](https://raw.githubusercontent.com/SpotechYT/Serika-Dark/main/Desktop.png)
 
 ## My Themes
 Get the VS Code theme: https://github.com/SpotechYT/serika-dark-vscode
