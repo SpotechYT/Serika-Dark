@@ -6,7 +6,13 @@ Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikh
 
 ***More Comming Soon!***
 
-Full Desktop: 
+## Colors:
+  - ![Yellow](https://img.shields.io/badge/Yellow-%23e2b714-%23e2b714)
+  - ![Dark Grey](https://img.shields.io/badge/Dark%20Grey-%232c2e31-%232c2e31)
+  - ![Grey](https://img.shields.io/badge/Grey-%23323437-%23323437)
+  - ![Light Grey](https://img.shields.io/badge/Light%20Grey-%23646669-%23646669)
+
+## Full Desktop: 
 
 ![Desktop](https://raw.githubusercontent.com/SpotechYT/Serika-Dark/main/Desktop.png)
 
