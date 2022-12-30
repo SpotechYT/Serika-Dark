@@ -21,7 +21,7 @@ Get the VS Code theme: https://github.com/SpotechYT/serika-dark-vscode
 <p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/example_python.png" height="200"></p>
 
 Get the Github Desktop Theme: https://github.com/SpotechYT/serika-dark-github
-<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-github/main/assets/Screenshot.png" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-github/main/Screenshot.png" height="200"></p>
 
 Get the Wallpapers: https://github.com/SpotechYT/serika-dark-wallpapers
 <p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-wallpapers/main/Collage.jpg" height="200"></p>
