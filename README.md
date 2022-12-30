@@ -18,7 +18,7 @@ Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikh
 
 ## My Themes
 Get the VS Code theme: https://github.com/SpotechYT/serika-dark-vscode
-<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/example_python.png" height="200"></p>
+<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/Screenshot.png" height="200"></p>
 
 Get the Github Desktop Theme: https://github.com/SpotechYT/serika-dark-github
 <p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-github/main/Screenshot.png" height="200"></p>
