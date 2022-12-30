@@ -26,6 +26,9 @@ Get the Github Desktop Theme: https://github.com/SpotechYT/serika-dark-github
 Get the Wallpapers: https://github.com/SpotechYT/serika-dark-wallpapers
 <p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-wallpapers/main/Collage.jpg" height="200"></p>
 
+Get the Photoshop theme:
+<p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-photoshop/main/Screenshot.png" height="200"></p>
+
 Get the CMD Color Scheme: https://github.com/SpotechYT/serika-dark-cmd
 <p><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-cmd/main/Screenshot.png" height="200"></p>
 
